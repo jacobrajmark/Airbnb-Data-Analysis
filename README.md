@@ -5,6 +5,7 @@ Domain :
   1) Travel Industry
   2) Property Management
   3) Tourism
+
 Technologies used :
   1) Python
   2) Pandas
